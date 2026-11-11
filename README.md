@@ -1,4 +1,7 @@
 # Projet-Datamining
+
+Réalisé par : Doublani Abdessalame , Bouamama Khalil , Taieb Maya , Belhadj Samia , Khenniche Idir , Boulkenater Nour El Houda .
+
 ## Étape 1 – Nettoyage et vérification
 
 Notebook : `notebooks/01_nettoyage.ipynb`
